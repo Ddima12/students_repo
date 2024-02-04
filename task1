@@ -1,4 +1,0 @@
-name = input('Введите своё имя')
-age = input('Введите свой возраст')
-print('Привет,' + name + ',' + 'тебе' + age +  'лет')
-print(type(name), type(age))
